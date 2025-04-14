@@ -13,7 +13,6 @@
 
 ### 🌍 Languages :
 - 🇺🇦 Ukrainian - Native  
-- 🇷🇺 Russian - Fluent  
 - 🇬🇧 English - Upper-Intermediate  
 
 ---
